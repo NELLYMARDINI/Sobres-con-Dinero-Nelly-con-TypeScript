@@ -34,7 +34,7 @@ if (salida) {
     salida.innerHTML =
    `El sobre Nº1 tiene ${sobre1.totalSobre()}<br>`+
    `El sobre Nº2 tiene ${sobre2.totalSobre()}<br>`+
-   `El sobre Nº3 tiene ${sobre3.totalSobre()}<br`+
+   `El sobre Nº3 tiene ${sobre3.totalSobre()}<br>`+
    `El sobre Nº4 tiene ${sobre4.totalSobre()}<br>`+
    `El total entre todos los sobres es de ${procesarS.totalSobre()}`
 }
